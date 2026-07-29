@@ -1,13 +1,12 @@
 {
   "enabled": true,
   "appId": 4949230,
-  "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949230/500681d6526c888d4de34654a0fd60d3c3933ddf/header.jpg?t=1784824168",
+  "imageUrl": "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/header.jpg",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949230/dff3678f7b84b6d1b89fddcc53ff50709ee7da03/ss_dff3678f7b84b6d1b89fddcc53ff50709ee7da03.600x338.jpg?t=1784824168",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949230/02b8d9afced8d780947af769b769a3e08747a873/ss_02b8d9afced8d780947af769b769a3e08747a873.600x338.jpg?t=1784824168",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949230/ef7795cd4935846e76695bb63e820ce80b769b02/ss_ef7795cd4935846e76695bb63e820ce80b769b02.600x338.jpg?t=1784824168",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949230/5fa88041ded149a89c1934d602f19ae1ae32d46f/ss_5fa88041ded149a89c1934d602f19ae1ae32d46f.600x338.jpg?t=1784824168",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949230/a163b203f127b44d3b1dfb652dd862513397403a/ss_a163b203f127b44d3b1dfb652dd862513397403a.600x338.jpg?t=1784824168"
+    "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/screenshot_01.jpg",
+    "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/screenshot_02.jpg",
+    "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/screenshot_03.jpg",
+    "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/screenshot_04.jpg"
   ],
   "tagline": "Check out my friend's game!",
   "taglines": [
@@ -27,6 +26,6 @@
     { "locale": "ja", "text": "友達のゲームをチェックしてみて！" },
     { "locale": "ko", "text": "제 친구의 게임을 확인해 보세요!" },
     { "locale": "zh-Hans", "text": "快来看看我朋友的游戏！" },
-    { "locale": "zh-TW", "text": "快來看看我朋友的遊戏！" }
+    { "locale": "zh-TW", "text": "快來看看我朋友的遊戲！" }
   ]
 }
