@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "appId": 4949230,
-  "imageUrl": "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/logo.png",
+  "imageUrl": "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/header.png",
   "tagline": "Check out my friend's game!",
   "taglines": [
     { "locale": "de", "text": "Schau dir das Spiel meines Freundes an!" },
