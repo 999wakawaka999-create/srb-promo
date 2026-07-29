@@ -1,13 +1,7 @@
 {
   "enabled": true,
   "appId": 4949230,
-  "imageUrl": "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/header.jpg",
-  "screenshots": [
-    "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/screenshot_01.jpg",
-    "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/screenshot_02.jpg",
-    "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/screenshot_03.jpg",
-    "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/screenshot_04.jpg"
-  ],
+  "imageUrl": "https://raw.githubusercontent.com/999wakawaka999-create/srb-promo/refs/heads/main/4949230/logo.png",
   "tagline": "Check out my friend's game!",
   "taglines": [
     { "locale": "de", "text": "Schau dir das Spiel meines Freundes an!" },
@@ -27,5 +21,7 @@
     { "locale": "ko", "text": "제 친구의 게임을 확인해 보세요!" },
     { "locale": "zh-Hans", "text": "快来看看我朋友的游戏！" },
     { "locale": "zh-TW", "text": "快來看看我朋友的遊戲！" }
-  ]
+  ],
+  "cta": "WISHLIST NOW!",
+  "ctas": []
 }
