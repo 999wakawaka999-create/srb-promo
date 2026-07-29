@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "appId": 000000,
+  "imageUrl": "",
+  "tagline": "Enjoying the game? Check out this one too!",
+  "taglines": [
+    { "locale": "de", "text": "" },
+    { "locale": "es", "text": "" },
+    { "locale": "fr", "text": "" },
+    { "locale": "it", "text": "" },
+    { "locale": "pt", "text": "" },
+    { "locale": "ru", "text": "" },
+    { "locale": "pl", "text": "" },
+    { "locale": "cs", "text": "" },
+    { "locale": "hu", "text": "" },
+    { "locale": "ro", "text": "" },
+    { "locale": "tr", "text": "" },
+    { "locale": "uk", "text": "" },
+    { "locale": "th", "text": "" },
+    { "locale": "ja", "text": "" },
+    { "locale": "ko", "text": "" },
+    { "locale": "zh-Hans", "text": "" },
+    { "locale": "zh-TW", "text": "" }
+  ]
+}
